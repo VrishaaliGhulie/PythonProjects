@@ -2,6 +2,9 @@
 
 An ETL pipeline that extracts data from the Spotify API, transforms it, and loads it into AWS. This pipeline provides a comprehensive end-to-end solution for retrieving and analyzing music data from Spotify.
 
+![Architecture](https://github.com/user-attachments/assets/2f93f3e7-0e60-4f4f-87f8-9d472a969089)
+
+
 ## Services Used
 Amazon S3: Amazon Simple Storage Service (S3) is a cloud-based object storage service provided by Amazon Web Services (AWS). It is designed to store and retrieve large amounts of data, such as photos, videos, and other types of files, from anywhere on the web
 CloudWatch: Amazon CloudWatch is a monitoring and observability service provided by Amazon Web Services (AWS). It is designed to collect and track metrics, collect and monitor log files, and set alarms
